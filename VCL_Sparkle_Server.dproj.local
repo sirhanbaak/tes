@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2018/02/15 12:31:32.086,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
+    <Transaction>2018/02/15 12:31:32.233,=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
+    <Transaction>2018/02/15 12:31:50.480,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Tes\MainForm.pas=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\MainForm.pas</Transaction>
+    <Transaction>2018/02/15 12:31:50.480,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Tes\MainForm.dfm=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\MainForm.dfm</Transaction>
+    <Transaction>2018/02/15 12:31:51.711,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Tes\Server.pas=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Server.pas</Transaction>
+    <Transaction>2018/02/15 12:31:53.092,C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\Tes\VCL_Sparkle_Server.dproj=C:\Users\ASUS\Documents\Embarcadero\Studio\Projects\VCL_Sparkle_Server.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
